@@ -1,0 +1,22 @@
+
+
+/* General styles.   Font-sizes from Style-guide_092017.pdf*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 46px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    font-size: 18px;
+}
+
+
